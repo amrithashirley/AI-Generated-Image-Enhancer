@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'CustomFont'; /* This is the name you'll use in Tailwind config */
+    font-family: 'CustomFont'; 
     src: url('./fonts/CrimsonText-Regular.ttf') format('truetype');
-    font-display: swap; /* Recommended for performance (prevents blank text flash) */
+    font-display: swap; 
   }
 
 @import "tailwindcss";
