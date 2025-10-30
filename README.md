@@ -15,6 +15,7 @@ Built with **React**, **Tailwind CSS**, and the **PicWish Image Enhancement API*
 ---
 
 ## 🛠️ Tech Stack
+- **HTML, CSS, JS**
 - **React (Vite)**
 - **Tailwind CSS**
 - **PicWish API**
